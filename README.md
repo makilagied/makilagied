@@ -1,1 +1,1 @@
-sad story 😔 coding ain't easy 
+`cd root`
