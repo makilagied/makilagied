@@ -1,6 +1,6 @@
 # Hi, I'm Erick D. Makilagi 👋
 
-**Full-Stack Software Engineer | Frontend & Backend | Automation | FinTech Systems**
+**Software Engineer | Frontend & Backend | Automation | FinTech Systems**
 
 I build **modern frontend applications**, **scalable backend services**, and **automated workflows** for enterprise and financial systems.  
 My work focuses on **clean UI/UX**, **API-driven architectures**, and **automation that reduces operational overhead**.
