@@ -107,6 +107,7 @@ My work focuses on **clean UI/UX**, **API-driven architectures**, and **automati
 ## 📫 Connect
 
 - GitHub: [@makilagied](https://github.com/makilagied)
+- Buy me a coffee: [@makilagied](https://snippe.me/pay/makilagied)
 
 ---
 
